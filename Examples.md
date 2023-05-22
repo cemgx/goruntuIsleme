@@ -1,4 +1,4 @@
-# Fotoğraftan Duygu Analizi
+# Fotoğraftan Duygu Analizi 
 ## Example 1
 ![ornek1](https://github.com/cemgx/goruntuIsleme/assets/95704587/686396f3-ed16-4e9f-8a1c-7816dfa47d6d)
 #
